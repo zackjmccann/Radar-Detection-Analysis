@@ -1,2 +1,2 @@
-### sqlalchemy-challenge
-    Authored by __Zachary James McCann__
+### SQL Alchemy Challenge
+#   Authored by Zachary James McCann

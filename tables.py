@@ -9,7 +9,7 @@ Base = declarative_base()
 class Measurement(Base):
     __tablename__ = "measurement"
     id = Column(Integer, primary_key=True)
-    stations = Column(String(255))
+    station = Column(String(255))
     date = Column(String(255))
     prcp = Column(Float)
     tobs = Column(Float)
